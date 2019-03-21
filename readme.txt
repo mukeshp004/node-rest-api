@@ -1,8 +1,11 @@
+This is the tutorial for rest api for fetching the book Data.
+
 mongo bookAPI < book.json.js
 
 
 
-mongo cmd 
+Terminal command  for mongoDB
+-------------------
 show dbs
 show collections
 
